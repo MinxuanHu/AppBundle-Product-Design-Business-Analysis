@@ -15,8 +15,10 @@ A complete product design process： Continuously updated
 
 7.Roadmap
 
-8.PRD Document
+8.App Bundle-Architecture diagram
 
-9.Final MockUp design for project
+9.PRD Document
 
-10.PRD Presentation
+10.Project mockup
+
+11.PRD Presentation
